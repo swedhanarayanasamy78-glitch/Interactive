@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class InteractiveappConfig(AppConfig):
+class Pic1AppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'interactiveapp'
+    name = 'pic1app'
